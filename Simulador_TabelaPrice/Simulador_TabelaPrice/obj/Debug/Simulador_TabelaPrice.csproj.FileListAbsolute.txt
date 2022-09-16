@@ -1,0 +1,11 @@
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\bin\Debug\Simulador_TabelaPrice.exe.config
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\bin\Debug\Simulador_TabelaPrice.exe
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\bin\Debug\Simulador_TabelaPrice.pdb
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.Form1.resources
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.Properties.Resources.resources
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.csproj.GenerateResource.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.exe
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\Simulador_TabelaPrice\Simulador_TabelaPrice\obj\Debug\Simulador_TabelaPrice.pdb
