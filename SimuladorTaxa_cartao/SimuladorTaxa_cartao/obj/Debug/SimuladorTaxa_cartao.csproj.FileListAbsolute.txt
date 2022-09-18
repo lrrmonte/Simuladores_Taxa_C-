@@ -1,0 +1,11 @@
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\bin\Debug\SimuladorTaxa_cartao.exe.config
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\bin\Debug\SimuladorTaxa_cartao.exe
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\bin\Debug\SimuladorTaxa_cartao.pdb
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.Form1.resources
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.Properties.Resources.resources
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.csproj.GenerateResource.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.exe
+C:\Users\linco\OneDrive\Documentos\Simuladores_C#\SimuladorTaxa_cartao\SimuladorTaxa_cartao\obj\Debug\SimuladorTaxa_cartao.pdb

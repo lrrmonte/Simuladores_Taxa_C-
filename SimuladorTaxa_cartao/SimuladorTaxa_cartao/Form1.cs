@@ -1,0 +1,67 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace SimuladorTaxa_cartao
+{
+    public partial class Form1 : Form
+    {
+        double vlr_venda, taxa, vlr_venda_final, vlr_taxa, parcela;
+        int prazo;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            converter();
+                        
+            vlr_venda_final = Math.Round(vlr_venda / (1 - (taxa / 100)),2);
+
+            vlr_taxa = Math.Round((vlr_venda_final - vlr_venda),2);
+
+            parcela = Math.Round((vlr_venda_final / prazo),2);
+
+            lb_vlr_final.Text=vlr_venda_final.ToString();
+            lb_vlr_taxa.Text=vlr_taxa.ToString();
+            lb_parcela.Text=($"{prazo} X de {parcela.ToString()}");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            tb_vlr_venda.Clear();
+            tb_prazo.Clear();
+            tb_taxa.Clear();
+            lb_vlr_final.ResetText();
+            lb_parcela.ResetText();
+            lb_vlr_taxa.ResetText();
+            tb_vlr_venda.Focus();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        private void converter()
+        {
+            try
+            {
+                vlr_venda = double.Parse(tb_vlr_venda.Text);
+                taxa = double.Parse(tb_taxa.Text);
+                prazo = int.Parse(tb_prazo.Text);
+            }
+            catch(Exception erro)
+            {
+                MessageBox.Show(erro.Message);
+            }
+        }
+    }
+}
